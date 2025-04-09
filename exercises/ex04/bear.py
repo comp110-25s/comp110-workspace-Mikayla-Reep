@@ -1,5 +1,7 @@
 """File to define Bear class."""
 
+__author__: str = "730648844"
+
 
 class Bear:
     """Initation and Methods for every bear"""

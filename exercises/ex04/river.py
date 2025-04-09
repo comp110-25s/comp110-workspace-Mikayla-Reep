@@ -3,6 +3,8 @@
 from exercises.ex04.fish import Fish
 from exercises.ex04.bear import Bear
 
+__author__: str = "730648844"
+
 
 class River:
     day: int
